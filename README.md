@@ -2,7 +2,7 @@
 
 <img width="879" height="1280" alt="WhatsApp Image 2026-04-24 at 5 04 05 PM" src="https://github.com/user-attachments/assets/d250b559-9461-4d2c-9c77-574fa7a8a40d" />
 
-# RTOS-Based Variometer (STM32)
+# Kalman & Comoplimentary filter based dual redudant Variometer
 
 Real-time variometer built on STM32 using sensor fusion between IMU (MPU6050) and barometric sensors (BMP280) to estimate vertical velocity with low latency and high stability.
 
