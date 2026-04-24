@@ -1,0 +1,7 @@
+../Core/Src/bmp280.c:21:6:bmp_hal_i2c_write	2
+../Core/Src/bmp280.c:40:9:bmp_hal_i2c_read	2
+../Core/Src/bmp280.c:64:13:bmp_load_calib	3
+../Core/Src/bmp280.c:104:8:temperature	4
+../Core/Src/bmp280.c:147:8:pressure	3
+../Core/Src/bmp280.c:196:6:bmp_i2c_setup	1
+../Core/Src/bmp280.c:205:7:altitude_calc	2

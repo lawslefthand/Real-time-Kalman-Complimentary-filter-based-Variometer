@@ -1,0 +1,7 @@
+../Core/Src/bmp280_secondary.c:21:6:bmp_hal_i2c_write_secondary	40	static
+../Core/Src/bmp280_secondary.c:40:9:bmp_hal_i2c_read_secondary	40	static
+../Core/Src/bmp280_secondary.c:64:13:bmp_load_calib_secondary	56	static
+../Core/Src/bmp280_secondary.c:104:8:temperature_secondary	96	static
+../Core/Src/bmp280_secondary.c:147:8:pressure_secondary	80	static
+../Core/Src/bmp280_secondary.c:196:6:bmp_i2c_setup_secondary	8	static
+../Core/Src/bmp280_secondary.c:205:7:altitude_calc_secondary	24	static
