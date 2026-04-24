@@ -645,7 +645,7 @@ void sensor_aq_task(void *argument)
 			altitude = altitude_calc_secondary();
 			HAL_GPIO_WritePin(GPIOB, GPIO_PIN_13, 1);
 		} else {
-			altitude = altitude_calc_secondary();
+			altitude = altitude_calc();
 		}
 		cv = vertical_velocity_baro(altitude, 0.01f);
 		cc = vertical_velocity_imu(ax, ay, az, roll_deg, pitch_deg, 0.01f);
