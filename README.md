@@ -33,8 +33,4 @@ Combines:
 <img width="730" height="787" alt="WhatsApp Image 2026-04-24 at 5 19 26 PM" src="https://github.com/user-attachments/assets/eb7ed2c3-4efc-4fa9-97b5-1452de7bbf49" />
 
 
-## Use Cases
-
-UAVs, gliders, and embedded flight instrumentation.
-
 
